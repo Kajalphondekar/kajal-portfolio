@@ -12,35 +12,11 @@ import colorSharp from "../assets/image/color-sharp2.png";
 function Projects() {
   const projects = [
     {
-      title: "Portfolio",
-      description: "This is my portfolio website",
-      img: img1,
+      title: "coming soon",
+      description: "coming soon",
+      
     },
-    {
-      title: "Portfolio",
-      description: "This is my portfolio website",
-      img: img2,
-    },
-    {
-      title: "Portfolio",
-      description: "This is my portfolio website",
-      img: img3,
-    },
-    {
-      title: "Portfolio",
-      description: "This is my portfolio website",
-      img: img1,
-    },
-    {
-      title: "Portfolio",
-      description: "This is my portfolio website",
-      img: img2,
-    },
-    {
-      title: "Portfolio",
-      description: "This is my portfolio website",
-      img: img3,
-    },
+  
   ];
 
   // Return JSX
@@ -67,9 +43,7 @@ function Projects() {
               <Tab.Content>
                 <Tab.Pane eventKey="first">
                   <Row>
-                    {projects.map((project, index) => {
-                      return <ProjectsCard key={index} {...project} />;
-                    })}
+                   <h1>Coming Soon!!!</h1>
                   </Row>
                 </Tab.Pane>
                 <Tab.Pane eventKey="second"></Tab.Pane>
