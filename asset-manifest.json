@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kajal-portfolio/static/css/main.dcd8c704.css",
-    "main.js": "/kajal-portfolio/static/js/main.f956e492.js",
+    "main.js": "/kajal-portfolio/static/js/main.95ca802c.js",
     "static/media/color-sharp.png": "/kajal-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/kajal-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/kajal-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
@@ -17,10 +17,10 @@
     "static/media/meter3.svg": "/kajal-portfolio/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
     "index.html": "/kajal-portfolio/index.html",
     "main.dcd8c704.css.map": "/kajal-portfolio/static/css/main.dcd8c704.css.map",
-    "main.f956e492.js.map": "/kajal-portfolio/static/js/main.f956e492.js.map"
+    "main.95ca802c.js.map": "/kajal-portfolio/static/js/main.95ca802c.js.map"
   },
   "entrypoints": [
     "static/css/main.dcd8c704.css",
-    "static/js/main.f956e492.js"
+    "static/js/main.95ca802c.js"
   ]
 }
