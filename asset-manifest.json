@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kajal-portfolio/static/css/main.dcd8c704.css",
+    "main.js": "/kajal-portfolio/static/js/main.f956e492.js",
+    "static/media/color-sharp.png": "/kajal-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/kajal-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/banner-bg.png": "/kajal-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/kajal-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/project-img1.png": "/kajal-portfolio/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/project-img2.png": "/kajal-portfolio/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/kajal-portfolio/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/revicons.eot": "/kajal-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/kajal-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/kajal-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/kajal-portfolio/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/kajal-portfolio/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/kajal-portfolio/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "index.html": "/kajal-portfolio/index.html",
+    "main.dcd8c704.css.map": "/kajal-portfolio/static/css/main.dcd8c704.css.map",
+    "main.f956e492.js.map": "/kajal-portfolio/static/js/main.f956e492.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcd8c704.css",
+    "static/js/main.f956e492.js"
+  ]
+}
